@@ -4,7 +4,7 @@ AVLtree와 list 알고리즘을 활용하여 데이터베이스 구현
 
 
 
-기능 :   
+* 기능     
        1. insert  
        2. add  
        3. delete  
